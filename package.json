@@ -1,0 +1,14 @@
+{
+  "name": "genSite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lhj233/genSite.git",
+  "author": "dva",
+  "scripts": {
+    "docs:init": "docsify init ./docs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "docsify": "^4.11.4"
+  }
+}
